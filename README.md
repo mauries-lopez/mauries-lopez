@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I've used these before, just showing off different programming languages!</h3>
+<h3 align="center">I’ve worked with these before; just sharing some programming languages I’ve used!</h3>
 
 ###
 
