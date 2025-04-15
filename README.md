@@ -17,7 +17,7 @@ De La Salle University
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauries-lopez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=true&order=2" height="190" alt="languages graph"/>
 
 ## Skills
-- Natural Language: Tagalog (Native), English (Profecient)
+- Natural Language: Tagalog (Native), English (Proficient)
 - Programming Language: C; C++; C#; Java; Python; SQL
 - Typesetting Language: Markdown
 - Framework: Tailwind
