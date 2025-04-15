@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Based in the Philippines, I am studying at De La Salle University. With a keen interest in software development, I strive to leverage technology to create impactful applications. My journey in coding has led me to work on diverse projects, and I continuously seek opportunities to learn and grow.</p>
+<p align="center">Based in the Philippines, I am currently studying at De La Salle University. My passion for coding and curiosity have led me to work on diverse projects, as I continuously seek opportunities to learn and grow.</p>
 
 ###
 
