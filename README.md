@@ -1,5 +1,5 @@
 # Mauries Lopez
-<p align="left">⚡ Recently developed a locally hosted web application using a three-tier architecture and a distributed system based on microservices.</p>
+⚡ Check out my web portfolio!
 
 ***B.S. Computer Science Student***
 
@@ -7,18 +7,16 @@ De La Salle University
 
 
 ## Research Interest 
-⚡ Currently working on a thesis about **"Exploring Transformer-based Approaches in Sentiment Prediction of Philippine Tweets."**
+⚡ Published our thesis at the DLSU Research Congress 2025: **"Exploring Transformer-Based Approaches in Sentiment Prediction of Philippine Tweets"** (published in June 2025).
 
-- Deep Learning
+- Machine Learning
+- Neural Networks
+- Transformers (BERT Models)
 - Sentiment Analysis
-- Natural Language Processing
-- Neural Networks (Encoders)
+- NLP
+- Philippine Text Data
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauries-lopez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=true&order=2" height="190" alt="languages graph"/>
 
-## Skills / Tech Stack
-- Natural Language: Tagalog (Native), English (Proficient)
-- Programming Language: C; C++; C#; Java;
-- Typesetting Language: Markdown
-- Stylesheet: CSS, TailwindCSS
+
 
