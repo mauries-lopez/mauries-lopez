@@ -1,5 +1,6 @@
-# Mauries Lopez
 ⚡ Check out my web portfolio!
+
+# Mauries Lopez
 
 ***B.S. Computer Science Student***
 
