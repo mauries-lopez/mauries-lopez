@@ -2,10 +2,7 @@
 
 # Mauries Lopez
 
-***B.S. Computer Science Student***
-
-De La Salle University
-
+***Software Engineer & BSCS-ST Graduate @ DLSU***
 
 ## Research Interest 
 ⚡ Published our thesis at the DLSU Research Congress 2025: **"Exploring Transformer-Based Approaches in Sentiment Prediction of Philippine Tweets"** (published in June 2025).
